@@ -1,7 +1,7 @@
 # Introduction to single-cell RNA-seq data analysis
 
-### 19, 26 Jan and 02 Feb || 09:30 - 17:30
-#### Online via Zoom
+### 16, 17, 20 Feb || 09:30 - 17:30
+### Bioinformatics Training Facility, Craik-Marshall Building, Downing Site, University of Cambridge
 
 ![](UnivCambridge_ScRnaSeqIntro_Base/Images/uniOfCamCrukLogos.png)
 
