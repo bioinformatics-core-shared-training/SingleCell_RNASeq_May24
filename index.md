@@ -99,7 +99,7 @@ Trainers: Adam, Chandra, Hugo
 
 Trainers: Ash, Betty, Hugo, Jiawei
 
-* 09:30 - 09:40 Recap - Hugo
+* 09:30 - 09:40 [Recap](https://jamboard.google.com/d/1DQtPrmsSBBk_r63rMDQu60yAoYnwK-PVFnH5P2aWXnw/edit?usp=sharing) - Hugo
 * 09:40 - 11:05 **Clustering** - Jiawei / Hugo
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering.html)
