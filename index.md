@@ -132,7 +132,12 @@ However, if you want to run the analysis on your own computer, you can follow th
 * Open RStudio and run the following commands from the console:
     ```r
     install.packages("BiocManager")
-    BiocManager::install(c("AnnotationHub", "BiocParallel", "BiocSingular", "DropletUtils", "PCAtools", "batchelor", "bluster", "cluster", "clustree", "dynamicTreeCut", "edgeR", "ensembldb", "ggplot2", "igraph", "patchwork", "pheatmap", "scater", "scran", "tidyverse"))
+    BiocManager::install(c("AnnotationHub", "BiocParallel", "BiocSingular", "DropletUtils", 
+                           "PCAtools", "batchelor", "bluster", "cluster", "clustree", 
+                           "dynamicTreeCut", "edgeR", "ensembldb", "ggplot2", "igraph", 
+                           "patchwork", "pheatmap", "scater", "scran", "miloR", "tidyverse"))
+    # due to a bug, reinstall this package after all the above
+    install.packages("irlba", type = "source", force = TRUE)
     ```
 
 For Cellranger, you will need to use a Linux machine.
